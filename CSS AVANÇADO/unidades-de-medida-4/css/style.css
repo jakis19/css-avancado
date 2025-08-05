@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+:root {
+    font-size: 50px;
+}
+
+body {
+    font-size: 15px;
+}
+.box {
+    width: 100vw;
+    height: 90vh;
+    background-color: rgb(122, 57, 196);
+}
+.box2 {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(37, 7, 71);
+}
+
+
+
+p {
+    font-size: 2em;
+}
